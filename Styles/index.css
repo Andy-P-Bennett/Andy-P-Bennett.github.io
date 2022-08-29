@@ -1,5 +1,5 @@
 .link-containers {
-    align-items: center;
+    text-align: center;
 }
 .link-containers > .CS {
     display: flex;
