@@ -1,0 +1,4 @@
+.link-containers > .CS {
+    display: flex;
+    flex-direction: column;
+}
