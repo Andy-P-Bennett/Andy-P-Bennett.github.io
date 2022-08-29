@@ -1,3 +1,6 @@
+.link-containers {
+    justify-content: center;
+}
 .link-containers > .CS {
     display: flex;
     flex-direction: column;
