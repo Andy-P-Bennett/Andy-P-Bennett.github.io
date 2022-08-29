@@ -6,7 +6,7 @@
     flex-direction: column;
 }
 .photo-section {
-    max-width: 50%;
+    width: 300px;
     height: auto;
     display: block;
     margin-left: auto;
