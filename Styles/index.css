@@ -16,6 +16,9 @@
 .useful-links {
     text-align: center;
 }
+.useful-links a {
+    padding: 10px;
+}
 .class-links {
     text-align: left;
     display: flex;
