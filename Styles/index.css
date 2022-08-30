@@ -1,14 +1,29 @@
-.link-containers {
-    text-align: center;
-}
-.link-containers > .CS {
-    display: flex;
-    flex-direction: column;
+.nav-bar {
+    background-color: #164b70;
+    color: #cce3f3;
+    padding: 14px 16px;
+    font-size: 23px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 .photo-section > .schedule {
-    width: 800px;
+    width: 600px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.useful-links {
+    text-align: center;
+}
+.class-links {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+.class-links th, td {
+    padding: 5px;
+}
+.class-links #special {
+    text-align: center;
 }
